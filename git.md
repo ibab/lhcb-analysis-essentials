@@ -1,3 +1,4 @@
+# Version control with git
 
 As stated on the project's official website [git-scm.com](https://git-scm.com),
 
@@ -13,7 +14,7 @@ for practical purposes means that me keeping a history does not depend on the
 benevolence (or even existence) of some remote server. The following tutorial is
 intended to
 
-> ## Learning Objectives {.objectives}
+> ## Learning Objectives
 >
 >  1. Convince you of Git's superiority
 >  2. Teach you to use Git locally to version changes on a local project
